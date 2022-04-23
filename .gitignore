@@ -1,0 +1,6 @@
+.vscode
+build/
+boost_*/
+my-build/
+*.7z
+*.so
